@@ -1,5 +1,5 @@
 # [START app_yaml]
 runtime: nodejs16
-env_variables:
-    PORT:3000
+#env_variables:
+#    PORT:3000
 # [END app_yaml]
